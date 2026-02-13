@@ -1,4 +1,4 @@
-# 📊 Central de Dashboards – Setor de Dados | Grupo A.Cândido
+# Central de Dashboards – Setor de Dados | Grupo A.Cândido
 
 Este projeto é um **site institucional de apresentação e navegação de dashboards Power BI**, desenvolvido para funcionar como uma **central única de acesso aos painéis estratégicos do Grupo A.Cândido**.
 
@@ -6,7 +6,7 @@ O site atua como um **Painel de Navegação**, permitindo que gestores e áreas 
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 - Centralizar o acesso aos dashboards do Power BI
 - Organizar os painéis por área/setor
@@ -16,9 +16,9 @@ O site atua como um **Painel de Navegação**, permitindo que gestores e áreas 
 
 ---
 
-## 🧭 Estrutura de Navegação
+## Estrutura de Navegação
 
-### 🔹 Tela Principal – Painel de Navegação
+### Tela Principal – Painel de Navegação
 Apresenta os cards principais, cada um representando uma área do negócio.
 
 - **Contabilidade** → abre dashboard Power BI
@@ -33,7 +33,7 @@ Apresenta os cards principais, cada um representando uma área do negócio.
 
 ---
 
-### 🔹 Submenu – Tráfego
+### Submenu – Tráfego
 Ao clicar em **Tráfego**, o usuário é direcionado para uma segunda tela contendo:
 
 - **CCO** → Power BI
@@ -45,7 +45,7 @@ Cada card abre diretamente o respectivo dashboard do Power BI.
 
 ---
 
-## ✨ Animações e Experiência do Usuário
+## Animações e Experiência do Usuário
 
 - Os cards **não animam no carregamento do site**
 - A animação ocorre **somente quando a seção de cards entra totalmente na tela**
@@ -57,7 +57,7 @@ Cada card abre diretamente o respectivo dashboard do Power BI.
 
 ---
 
-## 🎨 Identidade Visual
+## Identidade Visual
 
 Cores institucionais utilizadas:
 
@@ -73,7 +73,7 @@ Estilo visual:
 
 ---
 
-## 🧱 Componentes Principais
+## Componentes Principais
 
 - **Navbar fixa (sticky)**
   - Logo institucional
@@ -92,7 +92,7 @@ Estilo visual:
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 O site é totalmente responsivo:
 
@@ -104,7 +104,7 @@ O site é totalmente responsivo:
 
 ---
 
-## 🔗 Links Power BI
+## Links Power BI
 
 Os links dos dashboards são configurados como **placeholders**, facilitando a substituição:
 
