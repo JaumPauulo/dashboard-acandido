@@ -84,7 +84,7 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     title: 'Compras',
     icon: ShoppingCart,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=LINK_COMPRAS'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiMmQ3YWMxMGItZWUzMS00YTBlLThjMjAtMmZiM2YxYTg2OTJmIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   },
   {
     id: 'qualidade',
