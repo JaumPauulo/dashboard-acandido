@@ -27,7 +27,7 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     title: 'Recurso Humano',
     icon: Users,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=LINK_RECURSOS_HUMANOS'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiMTIxMzlkNjMtNTI1Zi00MDQ0LWI1YWYtNjkyMjVmYzA3YTQzIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   },
   {
     id: 'dp',
