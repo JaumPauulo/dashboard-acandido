@@ -91,6 +91,6 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     title: 'Qualidade',
     icon: CheckCircle,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=LINK_QUALIDADE'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiYTNiOWI3NjYtNGFmOS00ZjA4LTllMWItNDVkZDI2YmM5ODBmIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   }
 ];
