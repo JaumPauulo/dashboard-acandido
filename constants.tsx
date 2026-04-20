@@ -1,11 +1,11 @@
 
-import { 
-  Calculator, 
-  Users, 
-  UserRound, 
-  Truck, 
-  Wrench, 
-  ShoppingCart, 
+import {
+  Calculator,
+  Users,
+  UserRound,
+  Truck,
+  Wrench,
+  ShoppingCart,
   CheckCircle,
   Monitor,
   BarChart4,
@@ -27,7 +27,7 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     title: 'Recurso Humano',
     icon: Users,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=eyJrIjoiMTIxMzlkNjMtNTI1Zi00MDQ0LWI1YWYtNjkyMjVmYzA3YTQzIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiNmY2NWYwZGQtODk0Mi00NWJmLTg5MWQtOWVjN2FjMDU0ZjJiIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   },
   {
     id: 'dp',
@@ -42,33 +42,33 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     icon: Truck,
     type: 'submenu',
     subItems: [
-      { 
-        id: 'cco', 
-        title: 'CCO', 
-        icon: Monitor, 
-        type: 'link', 
-        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_CCO' 
+      {
+        id: 'cco',
+        title: 'CCO',
+        icon: Monitor,
+        type: 'link',
+        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_CCO'
       },
-      { 
-        id: 'cmo', 
-        title: 'CMO', 
-        icon: BarChart4, 
-        type: 'link', 
-        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_CMO' 
+      {
+        id: 'cmo',
+        title: 'CMO',
+        icon: BarChart4,
+        type: 'link',
+        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_CMO'
       },
-      { 
-        id: 'planejamento', 
-        title: 'Planejamento', 
-        icon: Map, 
-        type: 'link', 
-        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_PLANEJAMENTO' 
+      {
+        id: 'planejamento',
+        title: 'Planejamento',
+        icon: Map,
+        type: 'link',
+        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_PLANEJAMENTO'
       },
-      { 
-        id: 'ocorrencias', 
-        title: 'Ocorrências', 
-        icon: AlertTriangle, 
-        type: 'link', 
-        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_OCORRENCIAS' 
+      {
+        id: 'ocorrencias',
+        title: 'Ocorrências',
+        icon: AlertTriangle,
+        type: 'link',
+        url: 'https://app.powerbi.com/view?r=LINK_TRAFEGO_OCORRENCIAS'
       }
     ]
   },
