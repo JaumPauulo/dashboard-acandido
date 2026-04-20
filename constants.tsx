@@ -27,14 +27,14 @@ export const MAIN_DASHBOARDS: DashboardItem[] = [
     title: 'Recurso Humano',
     icon: Users,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=eyJrIjoiNmY2NWYwZGQtODk0Mi00NWJmLTg5MWQtOWVjN2FjMDU0ZjJiIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiMTIxMzlkNjMtNTI1Zi00MDQ0LWI1YWYtNjkyMjVmYzA3YTQzIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   },
   {
     id: 'dp',
     title: 'Departamento Pessoal',
     icon: UserRound,
     type: 'link',
-    url: 'https://app.powerbi.com/view?r=LINK_DEPARTAMENTO_PESSOAL'
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiNmY2NWYwZGQtODk0Mi00NWJmLTg5MWQtOWVjN2FjMDU0ZjJiIiwidCI6ImEwN2U5OWVjLWYzOTQtNDJlOS1hODQyLTQ5MjZiM2NmMGJjZSJ9'
   },
   {
     id: 'trafego',
